@@ -1,0 +1,5 @@
+#pequeño ejemplo de com9 usar for en python 
+#El bucle “for” en Python se utiliza para iterar sobre una secuencia
+frutas = ["manzana", "banana", "naranja"]
+for fruta in frutas:
+    print(fruta)
