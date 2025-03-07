@@ -1,0 +1,5 @@
+#ejemplo pequeño del uso de while, este sirve como un bucle 
+contador = 1
+while contador <= 5:
+    print(contador)
+    contador += 1
